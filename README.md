@@ -1,3 +1,8 @@
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-13 at 17 51 05" src="https://github.com/user-attachments/assets/764f6456-3c5e-463f-b774-faa49048f596" />
+
+
+
+
 # TodoApp (Android)
 
 Aplicação de lista de tarefas feita para aprender desenvolvimento Android moderno.
